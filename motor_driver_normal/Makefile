@@ -3,7 +3,7 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := motor-driver-example-app
+PROJECT_NAME := motor-driver-normal-example-app
 
 include $(IDF_PATH)/make/project.mk
 
